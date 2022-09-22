@@ -14,16 +14,13 @@ https://be-present.netlify.app/?#/
 
 ## Project setup
 
-By default, 'npm install' will install all modules listed as dependencies in package.json. In this case this will install:
+By default, 'npm install' will install all dependencies in the package.json file. In this case this will install:
 
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.12",
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.3"
-
-The following will need to be installed as devDependencies (npm install -D "@vue/cli-plugin-babel" for example)
-
+    "vue-router": "^4.0.3",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-service": "~5.0.0"
